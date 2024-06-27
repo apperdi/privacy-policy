@@ -18,4 +18,4 @@ You have the right to access information about the data stored by our app about 
 We reserve the right to modify this Privacy Policy to adjust to changed legal conditions or changes in the services and data processing. New versions will be published in our app.
 
 ## Contact
-For privacy inquiries, please send a message to apperdi@gmail.com.
+For privacy inquiries, please send a message to appserdi@gmail.com.
